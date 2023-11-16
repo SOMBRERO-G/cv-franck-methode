@@ -1,0 +1,49 @@
+
+.conteneur{
+    margin: 0 auto;
+    width: 500px;
+}
+.adresse{
+    height: 150px; 
+}
+.adresse img{
+    border-radius: 50%;
+    float:left;
+    margin-right: 25px;
+}
+.adresse ul{
+    list-style-type: none;
+    padding-top: 20px;
+}
+h1, h2{
+    text-align: center;
+}
+hr{
+    border-color:cadetblue;
+}
+.module{
+    margin-top:20px;
+    margin-bottom: 30px;
+}
+p{
+    margin:0px;
+}
+.bouton{
+    border:2px solid black;
+    text-decoration: none;
+    padding: 5px;;
+    border-radius: 10px;
+    float:right;
+    margin:10px;
+    color:white;
+    background-color: lightslategrey;
+}
+p,li,a{
+    font-family: 'Manrope', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Sulphur Point', sans-serif;
+}
+h1,h2{
+    font-family: 'Manrope', sans-serif;  
+}
